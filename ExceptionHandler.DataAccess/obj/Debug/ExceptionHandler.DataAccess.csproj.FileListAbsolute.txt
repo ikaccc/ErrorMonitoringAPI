@@ -1,0 +1,16 @@
+D:\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Debug\ExceptionHandler.DataAccess.csprojAssemblyReference.cache
+D:\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Debug\ExceptionHandler.DataAccess.csproj.CoreCompileInputs.cache
+D:\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\bin\Debug\ExceptionHandler.DataAccess.dll
+D:\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\bin\Debug\ExceptionHandler.DataAccess.pdb
+D:\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Debug\ExceptionHandler.DataAccess.dll
+D:\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Debug\ExceptionHandler.DataAccess.pdb
+E:\IVAN BACKUP D\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\bin\Debug\ExceptionHandler.DataAccess.dll
+E:\IVAN BACKUP D\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\bin\Debug\ExceptionHandler.DataAccess.pdb
+E:\IVAN BACKUP D\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Debug\ExceptionHandler.DataAccess.csprojAssemblyReference.cache
+E:\IVAN BACKUP D\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Debug\ExceptionHandler.DataAccess.dll
+E:\IVAN BACKUP D\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Debug\ExceptionHandler.DataAccess.pdb
+D:\Work\Projects\ExceptionHandler\ExceptionHandler.API\ExceptionHandler.DataAccess\bin\Debug\ExceptionHandler.DataAccess.dll
+D:\Work\Projects\ExceptionHandler\ExceptionHandler.API\ExceptionHandler.DataAccess\bin\Debug\ExceptionHandler.DataAccess.pdb
+D:\Work\Projects\ExceptionHandler\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Debug\ExceptionHandler.DataAccess.csprojAssemblyReference.cache
+D:\Work\Projects\ExceptionHandler\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Debug\ExceptionHandler.DataAccess.dll
+D:\Work\Projects\ExceptionHandler\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Debug\ExceptionHandler.DataAccess.pdb

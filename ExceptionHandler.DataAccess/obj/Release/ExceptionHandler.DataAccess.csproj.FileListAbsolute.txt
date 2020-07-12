@@ -1,0 +1,6 @@
+D:\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\bin\Release\ExceptionHandler.DataAccess.dll
+D:\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\bin\Release\ExceptionHandler.DataAccess.pdb
+D:\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Release\ExceptionHandler.DataAccess.csprojAssemblyReference.cache
+D:\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Release\ExceptionHandler.DataAccess.csproj.CoreCompileInputs.cache
+D:\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Release\ExceptionHandler.DataAccess.dll
+D:\Work\ExceptionHandler.API\ExceptionHandler.DataAccess\obj\Release\ExceptionHandler.DataAccess.pdb

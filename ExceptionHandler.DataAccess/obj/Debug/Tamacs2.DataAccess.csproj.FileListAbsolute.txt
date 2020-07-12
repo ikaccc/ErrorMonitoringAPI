@@ -1,0 +1,6 @@
+D:\Work\Tamacs2\Tamacs2\Tamacs2.DataAccess\bin\Debug\Tamacs2.DataAccess.dll
+D:\Work\Tamacs2\Tamacs2\Tamacs2.DataAccess\bin\Debug\Tamacs2.DataAccess.pdb
+D:\Work\Tamacs2\Tamacs2\Tamacs2.DataAccess\obj\Debug\Tamacs2.DataAccess.csproj.CoreCompileInputs.cache
+D:\Work\Tamacs2\Tamacs2\Tamacs2.DataAccess\obj\Debug\Tamacs2.DataAccess.dll
+D:\Work\Tamacs2\Tamacs2\Tamacs2.DataAccess\obj\Debug\Tamacs2.DataAccess.pdb
+D:\Work\Tamacs2\Tamacs2\Tamacs2.DataAccess\obj\Debug\Tamacs2.DataAccess.csprojAssemblyReference.cache
