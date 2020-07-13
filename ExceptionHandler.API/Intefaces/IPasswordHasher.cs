@@ -2,12 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ExceptionHandler.API.Models;
 
 namespace ExceptionHandler.API.Intefaces
 {
-    public interface IUserService
+    public interface IPasswordHasher
     {
-        AuthenticateResponse Authenticate(AuthenticateRequest model);
+        string Hash(string password);
+
+        (bool Verified, bool NeedsUpgrade) Check(string hash, string password);
     }
 }

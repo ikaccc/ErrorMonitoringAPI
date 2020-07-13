@@ -3,6 +3,7 @@ using ExceptionHandler.API.Helpers;
 using ExceptionHandler.API.Intefaces;
 using ExceptionHandler.API.Models;
 using ExceptionHandler.API.Services;
+using ExceptionHandler.API.Utilities;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -56,6 +57,7 @@ namespace ExceptionHandler.API
             services.AddScoped<IRequestHandler, RequestHandler>();
             services.AddScoped<ISecurity, Security>();
             services.AddScoped<IEmailSender, EmailSender>();
+            services.AddScoped<IPasswordHasher, PasswordHasher>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

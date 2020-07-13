@@ -535,5 +535,10 @@ namespace ExceptionHandler.API.DataManager
                 _dataBase.CloseConnection();
             }
         }
+
+        public Task<AuthenticateResponse> GetUserByUserAndPass(Func<object, bool> p)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

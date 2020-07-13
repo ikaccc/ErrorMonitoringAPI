@@ -20,6 +20,7 @@ namespace ExceptionHandler.API.Intefaces
         //Proccess methods stored exception data to db
         bool ProcessData(Payload data, ApplicationDbConfig dbConfig);
         Task<Guid> ProccessException(Exception ex);
+        Task<AuthenticateResponse> GetUserByUserAndPass(Func<object, bool> p);
         Task<Guid> ProccessTrace(Guid exceptionId);
         Task<Guid> ProccessCodeContext(CodeContext itemContext);
         Task<Guid> ProccessFrames(Guid traceId, Frame item, Guid codeContextId);

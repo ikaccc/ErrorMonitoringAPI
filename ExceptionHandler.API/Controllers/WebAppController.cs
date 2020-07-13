@@ -14,11 +14,13 @@ namespace ExceptionHandler.API.Controllers
     {
         private readonly ISecurity _sequrity;
         private readonly IRequestHandler _requestHandler;
+        private readonly IPasswordHasher _passwordHasher;
 
-        public WebAppController(ISecurity sequrity, IRequestHandler handleRequest)
+        public WebAppController(ISecurity sequrity, IRequestHandler handleRequest, IPasswordHasher passwordHasher)
         {
             _sequrity = sequrity;
             _requestHandler = handleRequest;
+            _passwordHasher = passwordHasher;
         }
 
 
@@ -26,8 +28,23 @@ namespace ExceptionHandler.API.Controllers
         public async Task<IActionResult> GetUserData([FromQuery] WebUser user)
         {
             var userData = await _requestHandler.GetWebUser(user.UserId);
-
+            var test = "";
+            try
+            {
+                test = _passwordHasher.Hash("IvanCekov1!");
+            }
+            catch (System.Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
+            
+            var tt = _passwordHasher.Check(
+                test, "IvanCekov1!");
             return Ok(userData);
         }
+
+        [HttpPost]
+        public  async  Task<IActionResult> CreateUser([FromBody] )
     }
 }
