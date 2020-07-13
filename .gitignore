@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/ExceptionHandler.API
+/ExceptionHandler.API/bin
+/ExceptionHandler.API/obj
